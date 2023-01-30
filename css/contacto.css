@@ -70,9 +70,9 @@ input[type='button'] {
 }
 input[type='button']:hover {
     background: black;
-    border: thin solid #60;
+    border: thin solid #666;
     border-radius: 0;
-    color: #60;
+    color: #666;
 }
 input[type='radio'],
 label {
